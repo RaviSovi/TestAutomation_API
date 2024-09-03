@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="API Suite Local" verbose="10">
+	<listeners>
+		<listener class-name="com.project.apiautomation.config.ListenerTest" />
+	</listeners>
+	
+	<test name="Test">
+	<parameter name = "appName" value = "app1" />
+		<classes>
+			<class
+				name="com.project.apiautomation.testcases.Book_E2E_BusinessScenarios" />
+		</classes>
+	</test>
+</suite> 

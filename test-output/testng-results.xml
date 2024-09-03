@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-17T20:48:24 IST" name="API Suite Local" finished-at="2024-08-17T20:48:26 IST" duration-ms="2152">
+    <groups>
+    </groups>
+    <test started-at="2024-08-17T20:48:24 IST" name="Test" finished-at="2024-08-17T20:48:26 IST" duration-ms="2152">
+      <class name="com.project.apiautomation.testcases.Book_E2E_BusinessScenarios">
+        <test-method is-config="true" signature="loadProperties(java.lang.String)[pri:0, instance:com.project.apiautomation.testcases.Book_E2E_BusinessScenarios@5ef6ae06]" started-at="2024-08-17T20:48:24 IST" name="loadProperties" finished-at="2024-08-17T20:48:24 IST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[app1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadProperties -->
+        <test-method is-config="true" signature="initilization()[pri:0, instance:com.project.apiautomation.testcases.Book_E2E_BusinessScenarios@5ef6ae06]" started-at="2024-08-17T20:48:24 IST" name="initilization" finished-at="2024-08-17T20:48:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilization -->
+        <test-method signature="addBookBusinessScenario()[pri:1, instance:com.project.apiautomation.testcases.Book_E2E_BusinessScenarios@5ef6ae06]" started-at="2024-08-17T20:48:24 IST" name="addBookBusinessScenario" finished-at="2024-08-17T20:48:26 IST" duration-ms="1917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBookBusinessScenario -->
+        <test-method signature="getBookBusinessScenario()[pri:2, instance:com.project.apiautomation.testcases.Book_E2E_BusinessScenarios@5ef6ae06]" started-at="2024-08-17T20:48:26 IST" name="getBookBusinessScenario" finished-at="2024-08-17T20:48:26 IST" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBookBusinessScenario -->
+        <test-method is-config="true" signature="initilization()[pri:0, instance:com.project.apiautomation.testcases.Book_E2E_BusinessScenarios@5ef6ae06]" started-at="2024-08-17T20:48:26 IST" name="initilization" finished-at="2024-08-17T20:48:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilization -->
+        <test-method is-config="true" signature="loadProperties(java.lang.String)[pri:0, instance:com.project.apiautomation.testcases.Book_E2E_BusinessScenarios@5ef6ae06]" started-at="2024-08-17T20:48:26 IST" name="loadProperties" finished-at="2024-08-17T20:48:26 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[app1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadProperties -->
+        <test-method is-config="true" signature="initilization()[pri:0, instance:com.project.apiautomation.testcases.Book_E2E_BusinessScenarios@5ef6ae06]" started-at="2024-08-17T20:48:26 IST" name="initilization" finished-at="2024-08-17T20:48:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilization -->
+        <test-method is-config="true" signature="loadProperties(java.lang.String)[pri:0, instance:com.project.apiautomation.testcases.Book_E2E_BusinessScenarios@5ef6ae06]" started-at="2024-08-17T20:48:26 IST" name="loadProperties" finished-at="2024-08-17T20:48:26 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[app1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadProperties -->
+        <test-method signature="deleteBookBusinessScenario()[pri:3, instance:com.project.apiautomation.testcases.Book_E2E_BusinessScenarios@5ef6ae06]" started-at="2024-08-17T20:48:26 IST" name="deleteBookBusinessScenario" finished-at="2024-08-17T20:48:26 IST" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteBookBusinessScenario -->
+      </class> <!-- com.project.apiautomation.testcases.Book_E2E_BusinessScenarios -->
+    </test> <!-- Test -->
+  </suite> <!-- API Suite Local -->
+</testng-results>
